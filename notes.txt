@@ -1,0 +1,17 @@
+Sequelize
+
+mySQL Connect
+-----------------
+- 
+
+MYSQL COMMANDS
+------------------------------
+SHOW STATUS;
+SHOW VARIABLES WHERE Variable_name = 'hostname';
+SHOW VARIABLES WHERE Variable_name = 'port';
+
+
+
+To view hidden files in finder
+-------------------------------
+command shift .
